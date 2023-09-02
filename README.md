@@ -1,6 +1,6 @@
 ![Hi, I’m Jason (1)](https://github.com/jasonholm81/jasonholm81/assets/60799980/a2b9e0e5-68e8-4bad-acb9-9b5790ae398d)
 
-:slightly_smiling_face: ### About Me
+---
 <!--
 **jasonholm81/jasonholm81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
