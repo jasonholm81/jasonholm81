@@ -1,4 +1,4 @@
-[](https://user-images.githubusercontent.com/60799980/265222594-b7933c8a-8dd1-422f-b298-f3e57162a83b.png)
+![Hi, I’m Jason](https://github.com/jasonholm81/jasonholm81/assets/60799980/1bb03431-6c61-4099-a2d1-95c04394fdd0)
 
 <!--
 **jasonholm81/jasonholm81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
