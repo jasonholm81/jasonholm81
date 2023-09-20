@@ -10,7 +10,6 @@
 * :student: Obtained the AZ-900 (Azure Fundamentals) Certification in August 2022.
 * :student: I participated in a Web Developer Bootcamp in 2020 through [HyperionDev](https://www.hyperiondev.com/bootcamps/web-development/).
 * :man_technologist: I am comfortable with JavaScript and frameworks (jQuery, React and Angular), C# and Microsoft Azure.
-* :man_technologist: I'm a member of [Tutorials EU](https://tutorials.eu/) and [Clever Programmer](https://www.cleverprogrammer.com/pwj), where I hone my skills with coding courses and build real world projects.
 * :pray: Interested in software engineering positions so that I can contribute my skills in a meaningful way.
 
 ---
