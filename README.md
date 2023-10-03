@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A passionate Developer from Ireland </h3>
+<h3 align="center">A passionate Developer based Ireland </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
