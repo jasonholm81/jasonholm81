@@ -1,7 +1,7 @@
 Hi 👋 My name is Jason
 ======================
 
-Software Developer
+Web Developer
 ------------------
 
 * 🌍  I'm based in Letterkenny, Ireland
